@@ -27,8 +27,7 @@
 ## Instructions for run Frontend
 1. Download project
 2. Locate in the project directory and locate `cd frontend`
-3. Edit and configure .env file (database conexion, ports, others)
-4. Open new tab terminal (**ctrl+shift+t**) 
-5. Execute packager `yarn install` or `npm install`
-6. If necesary update packages `yarn upgrade` or `npm update` 
-7. Run project `yarn start' or `npm start`
+3. Open new tab terminal (**ctrl+shift+t**) 
+4. Execute packager `yarn install` or `npm install`
+5. If necesary update packages `yarn upgrade` or `npm update` 
+6. Run project `yarn start' or `npm start`
