@@ -22,7 +22,7 @@
 4. Open terminal 
 5. Execute packager `yarn install` or `npm install`
 6. If necesary update packages `yarn upgrade` or `npm update` 
-7. Run project `yarn start' or `npm start`
+7. Run project `yarn start` or `npm start`
 
 ## Instructions for run Frontend
 1. Download project
