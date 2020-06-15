@@ -31,4 +31,4 @@
 4. Execute packager `yarn install` or `npm install`
 5. If necesary update packages `yarn upgrade` or `npm update` 
 6. Run project `yarn start` or `npm start`
-7. **Will automatically open a tab in browser with this address: ** `http://localhost:3000`
+7. **Will automatically open a tab in browser with this address:** `http://localhost:3000`
